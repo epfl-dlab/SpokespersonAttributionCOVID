@@ -1,19 +1,15 @@
 Each row in COVID19GS6.csv corresponds to one response to the survey. Column contents are as described below.
 
 **Number**
-
 Integer identifier of data point.
 
 **Spokesperson**
-
 Spokesperson who was attributed to the call for social distancing in this respondent's survey.
 
 **Spokesperson.Attitude**
-
 Respondent's reported attitude towards the spokesperson ("How do you feel about *the spokesperson*?") NA corresponds to the response "I do not know them".
 
 **Country	Knowledge.SD**
-
 Respondent's prior knowledge of a call to practice social distancing ("Were you aware of the instruction to practice social distancing?")
 
 **Age.Group**
